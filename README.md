@@ -21,6 +21,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TheLearningHead&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
+### 🎖️ Badges
+[![An image of @thelearninghead's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thelearninghead)](https://holopin.io/@thelearninghead)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=TheLearningHead&icon=1&color=1)](https://visitcount.itsvg.in)
 
