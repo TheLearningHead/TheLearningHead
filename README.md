@@ -21,7 +21,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TheLearningHead&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
-### 🎖️ Badges
+### 🎖️ Hacktoberfest 2024 Badges
 [![An image of @thelearninghead's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thelearninghead)](https://holopin.io/@thelearninghead)
 
 ---
